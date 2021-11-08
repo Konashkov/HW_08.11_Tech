@@ -1,0 +1,36 @@
+body{
+    background-color: #2E2641;
+}
+.div{
+    width: 500px;
+    height: 200px;
+    border-radius: 30px;
+}
+/* #B484F3 - #E04E78 */
+.one{
+    background: linear-gradient(45deg,#B484F3,#E04E78);
+}
+.one:hover{
+    background: linear-gradient(45deg,#c9a9f3,#eba0b5);
+}
+/* #F5C286 - #EE9494 */
+.two{
+    background: linear-gradient(45deg,#F5C286,#EE9494);
+}
+.two:hover{
+    background: linear-gradient(45deg,#f1cea5,#f0b9b9);
+}
+/* #774DA9 - #6787E5 */
+.three{
+    background: linear-gradient(45deg,#774DA9,#6787E5);
+}
+.three:hover{
+    background: linear-gradient(45deg,#856ca3,#8ea2df);
+}
+.headers{
+    text-align: center;
+    font-family: 'Open Sans';
+}
+.text{
+    text-align: center;
+}
